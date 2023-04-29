@@ -1,2 +1,1 @@
-# tenzinFirstProject
 print("hello world")
